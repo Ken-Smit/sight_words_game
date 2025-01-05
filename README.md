@@ -1,13 +1,26 @@
-# Sight Words Game for Kids
+# Sight Word Learning Game
+
+## About the Game
+This game is designed to help kindergartners learn and recognize sight words in a fun and engaging way. Sight words are commonly used words that children are encouraged to memorize to improve reading fluency and comprehension. By playing this game, young learners can build confidence and expand their vocabulary in an interactive environment.
+
+## Features
+- Interactive activities to reinforce sight word recognition.
+- Age-appropriate words tailored for kindergartners.
+- Easy-to-use interface designed with young learners in mind.
 
 ## Purpose
-The **Sight Words Game for Kids** is designed to help young learners practice and recognize high-frequency sight words, which are essential for building reading fluency. These words often don’t follow standard phonetic rules, so it's important for kids to memorize them to improve their reading skills. 
+The goal of this game is to:
+- Help children develop foundational reading skills.
+- Encourage memorization of high-frequency sight words.
+- Make learning an enjoyable and rewarding experience.
 
-This game makes learning sight words fun and engaging through interactive activities that reinforce recognition, pronunciation, and usage of these words in context. By playing this game, children will improve their reading confidence, develop a larger vocabulary, and be better equipped to read fluently at an early age.
+## How to Play
+1. Launch the game on your device.
+2. Follow the on-screen instructions to complete fun word challenges.
+3. Keep practicing to master the sight words list!
 
-Through colorful graphics and rewards, the game keeps children motivated to keep practicing and learning new words as they progress.
-
----
+## Contribution
+If you'd like to contribute to this project or suggest new features, feel free to open an issue or submit a pull request.
 
 ## License
-This game is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
