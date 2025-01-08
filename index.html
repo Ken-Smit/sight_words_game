@@ -1,14 +1,23 @@
 <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="index.css">
     <title>Sight Words</title>
+    <style>
+        .selected {
+            background-color: yellow;
+            border: 2px solid black;
+        }
+        .button {
+            margin: 5px;
+            padding: 10px 20px;
+        }
+    </style>
 </head>
-
-<html>
-    <header>Hello, Let's Lets Practice Our Sight Words Together!</header>
-    <script src="index.js"></script>
+<body>
+    <header>Hello, Let's Practice Our Sight Words Together!</header>
     <div class="container">
         <h1>Click the sight words</h1>
         <div class="buttons">
@@ -19,5 +28,10 @@
             <button class="button" id="selection5"></button>
             <button class="button" id="selection6"></button>
         </div>
+        <br><br>
+        <!-- Submit button -->
+        <button id="submit">Submit Answer</button>
     </div>
+    <script src="index.js"></script>
+</body>
 </html>
