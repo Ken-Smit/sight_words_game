@@ -3,23 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="index.css">
-    <title>Sight Words</title>
-    <style>
-        .selected {
-            background-color: yellow;
-            border: 2px solid black;
-        }
-        .button {
-            margin: 5px;
-            padding: 10px 20px;
-        }
-    </style>
+    <title>Mulan's Sight Words Adventure</title>
+    <link rel="stylesheet" href="index.css"> <!-- Linking the external CSS file -->
 </head>
 <body>
-    <header>Hello, Let's Practice Our Sight Words Together!</header>
+    <header>Welcome to Mulan's Sight Words Adventure!</header>
     <div class="container">
-        <h1>Click the sight words</h1>
+        <h1>Click the Sight Words</h1>
+        <p id="score">Score: 0 | High Score: 0</p>
         <div class="buttons">
             <button class="button" id="selection1"></button>
             <button class="button" id="selection2"></button>
@@ -28,8 +19,7 @@
             <button class="button" id="selection5"></button>
             <button class="button" id="selection6"></button>
         </div>
-        <br><br>
-        <!-- Submit button -->
+        <br>
         <button id="submit">Submit Answer</button>
     </div>
     <script src="index.js"></script>
